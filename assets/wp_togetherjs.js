@@ -10,11 +10,13 @@
   		$togetherJSStartButton.click(togetherJSButtonClicked);
 	});
 
-	TogetherJSConfig_on_ready = function () {
-	  $("#wp-admin-bar-start_together_js_button > a").text("End TogetherJS");
-	};
-	TogetherJSConfig_on_close = function () {
-	  $("#wp-admin-bar-start_together_js_button > a").text("Start TogetherJS");
+	TogetherJSConfig_on = {
+	  	ready: function () {
+		  	$("#wp-admin-bar-start_together_js_button > a").text("End TogetherJS");
+		},
+	  	close: function () {
+		  	$("#wp-admin-bar-start_together_js_button > a").text("Start TogetherJS");
+		}
 	};
 
 })(jQuery);
