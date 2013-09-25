@@ -1,0 +1,22 @@
+li.togetherjs-button-container > div {
+	padding: 0 !important;
+}
+
+a.togetherjs-button {
+	color: #ffffff !important;
+	background-color: #5cb85c !important;
+}
+
+a.togetherjs-button:hover {
+	background-color: #47a447 !important;
+}
+
+a.togetherjs-button.togetherjs-ready {
+	background-color: #d9534f !important;
+}
+
+a.togetherjs-button.togetherjs-ready:hover {
+	background-color: #d2322d !important;
+}
+
+
