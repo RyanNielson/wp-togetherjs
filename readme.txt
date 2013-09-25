@@ -1,8 +1,8 @@
 === WP TogetherJS ===
 Contributors: ryannielson
 Tags: realtime, together, browsing, javascript
-Requires at least: 3.0
-Tested up to: 3.6
+Requires at least: 3.3
+Tested up to: 3.6.1
 Stable tag: 1.0
 License: MIT
 License URI: http://opensource.org/licenses/MIT
