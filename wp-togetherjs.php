@@ -2,7 +2,7 @@
 
 /*
  * Plugin Name: WP TogetherJS
- * Version: 1.0
+ * Version: 1.0.1
  * Plugin URI: https://github.com/RyanNielson/wp-togetherjs
  * Description: Easily integrate Mozilla's TogetherJS collaboration system into a Wordpress site.
  * Author: Ryan Nielson

@@ -3,7 +3,7 @@ Contributors: ryannielson
 Tags: realtime, together, togetherjs, browsing, javascript, collaboration
 Requires at least: 3.3
 Tested up to: 3.6.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: MIT
 License URI: http://opensource.org/licenses/MIT
 
